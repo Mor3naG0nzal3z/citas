@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Gestion_de_Citas</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Pages\Diseño.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Pages\Diseño.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="images\" />
+    <Folder Include="System\Web\" />
+  </ItemGroup>
+
+</Project>

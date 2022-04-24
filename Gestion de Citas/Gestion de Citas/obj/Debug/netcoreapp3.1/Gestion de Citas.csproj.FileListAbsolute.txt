@@ -1,0 +1,121 @@
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.exe
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.deps.json
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.runtimeconfig.json
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.runtimeconfig.dev.json
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.dll
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.pdb
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.Views.dll
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.Views.pdb
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.csproj.AssemblyReference.cache
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.AssemblyInfoInputs.cache
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.AssemblyInfo.cs
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.csproj.CoreCompileInputs.cache
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorAssemblyInfo.cache
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorAssemblyInfo.cs
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\staticwebassets\Gestion de Citas.StaticWebAssets.Manifest.cache
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\staticwebassets\Gestion de Citas.StaticWebAssets.xml
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\scopedcss\bundle\Gestion de Citas.styles.css
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.TagHelpers.input.cache
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.TagHelpers.output.cache
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorCoreGenerate.cache
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorTargetAssemblyInfo.cache
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorTargetAssemblyInfo.cs
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.Views.pdb
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.dll
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.pdb
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.genruntimeconfig.cache
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.csproj.CopyComplete
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Calendar.cshtml.g.cs
+C:\Users\al157\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Contactos.cshtml.g.cs
+C:\Users\al157\source\repos\Gestion de citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Nosotros.cshtml.g.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.exe
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.deps.json
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.runtimeconfig.json
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.runtimeconfig.dev.json
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.dll
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.pdb
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.Views.dll
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.Views.pdb
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.csproj.AssemblyReference.cache
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.AssemblyInfoInputs.cache
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.AssemblyInfo.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.csproj.CoreCompileInputs.cache
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorAssemblyInfo.cache
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorAssemblyInfo.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\staticwebassets\Gestion de Citas.StaticWebAssets.Manifest.cache
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\staticwebassets\Gestion de Citas.StaticWebAssets.xml
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\scopedcss\bundle\Gestion de Citas.styles.css
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.TagHelpers.input.cache
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.TagHelpers.output.cache
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorCoreGenerate.cache
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Calendar.cshtml.g.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Contactos.cshtml.g.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Nosotros.cshtml.g.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorTargetAssemblyInfo.cache
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorTargetAssemblyInfo.cs
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.Views.pdb
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.dll
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.pdb
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.genruntimeconfig.cache
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.csproj.CopyComplete
+C:\Users\laslo\source\repos\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Cancelar Cita.cshtml.g.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.StaticWebAssets.xml
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.exe
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.deps.json
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.runtimeconfig.json
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.runtimeconfig.dev.json
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.dll
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.pdb
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.Views.dll
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\bin\Debug\netcoreapp3.1\Gestion de Citas.Views.pdb
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.csproj.AssemblyReference.cache
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.AssemblyInfoInputs.cache
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.AssemblyInfo.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.csproj.CoreCompileInputs.cache
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorAssemblyInfo.cache
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorAssemblyInfo.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\staticwebassets\Gestion de Citas.StaticWebAssets.Manifest.cache
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.TagHelpers.input.cache
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.TagHelpers.output.cache
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorCoreGenerate.cache
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Calendar.cshtml.g.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Cancelar Cita.cshtml.g.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Contactos.cshtml.g.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Nosotros.cshtml.g.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorTargetAssemblyInfo.cache
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.RazorTargetAssemblyInfo.cs
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.Views.pdb
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.dll
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.pdb
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.genruntimeconfig.cache
+C:\Users\alber\Source\Repos\citas\Gestion de Citas\Gestion de Citas\obj\Debug\netcoreapp3.1\Gestion de Citas.csproj.CopyComplete

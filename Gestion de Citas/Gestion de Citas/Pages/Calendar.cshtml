@@ -1,0 +1,15 @@
+﻿@page
+@model Citas
+@{
+    ViewData["Title"] = "Reservar";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+<div class="form-group">
+    @Html.LabelFor(m => m.citas, new { @class = "col-md-2 control-label" })
+    <div class="col-md-10">
+        @Html.TextBoxFor(m => m.citas, "{0:yyyy-MM-ddThh:mm:ss}", new { @class = "form-control", type = "datetime-local" })
+        @Html.ValidationMessageFor(m => m.citas, "", new { @class = "text-danger" })
+    </div>
+</div>
