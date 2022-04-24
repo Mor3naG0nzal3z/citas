@@ -1,0 +1,54 @@
+@page
+@model IndexModel
+
+<!DOCTYPE html>
+<html>
+<body>
+    <div class="row">
+        <div class="col-7">
+        </div>
+        <div>
+            <figure class="imagen">
+                <img src="https://www.totem.com.mx/wp-content/uploads/2021/04/creatividad.jpg">
+            </figure>
+        </div>-
+        <div class="col-5" style="background: #0E7A89; height: 95vh">
+            <form method='POST'>
+                <center>
+                    </br>
+                    <h2 style="color:#FFFFFF">BIENVENIDO</h2></br>
+                </center>
+                <p>
+                    <center>
+                        <label for="nombre" class="colocar_nombre">
+
+
+                            <span class="obligatorio"></span></br>
+                        </label>
+                        <input type="text" name="introducir_nombre" id="nombre" required="obligatorio" placeholder="Usuario">
+                    </center>
+                </p><br>
+                <p>
+                    <center>
+                        <label for="password" class="colocar_password">
+
+                            <span class="obligatorio"></span></br>
+                        </label>
+                        <input type="Password" name="indroducir_password " id="txtPassword" required="obligatorio" placeholder="Password">
+                    </center>
+                </p>
+                <p name="inicio_de_sesion" method="post" action="/Inicio Sesion" mailto:al15760370@ite.edu.mx>
+                    </br>
+                    <!-- Botón de envío de formulario -->
+                    <center>
+                        <input type="submit" value="Acceder" style="background: #EADC60" /></hr>
+                    </center>
+            </form>
+            <p>
+                <center>
+                    Crear Cuenta
+                </center>
+            </p>
+        </div>
+</body>
+</html>
